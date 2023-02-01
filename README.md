@@ -3,6 +3,8 @@
 Müşteri şikayetleri kayıtlarının tutulduğu bir veri seti içerisindeki benzer kayıtlar tespit edilecek ve tespit edilen kayıtlar masaüstü uygulamasında gösterilecektir.
 Multithreading kullanarak benzerlik arama süresini düşürmek amaçlanmaktadır.
 
+Projenin yapımında Python,Python Pandas, Java, Swing teknolojileri ve JetBrains Intellij IDE’si kullanılmıstır.
+
 
 #### -Arama 1
 ![Arama 1](https://imgyukle.com/f/2023/02/01/Jdn6YH.png)
