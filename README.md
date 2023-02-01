@@ -5,7 +5,7 @@ Multithreading kullanarak benzerlik arama süresini düşürmek amaçlanmaktadı
 
 
 #### -Arama 1
-![Arama 1(hhttps://imgyukle.com/f/2023/02/01/Jdn6YH.png)
+![Arama 1](hhttps://imgyukle.com/f/2023/02/01/Jdn6YH.png)
 
 #### -Arama 2
 ![Arama 2](https://imgyukle.com/f/2023/02/01/Jdn7sf.png)
